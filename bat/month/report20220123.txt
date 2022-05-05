@@ -1,0 +1,33 @@
+![BRU (1).png](https://cdn.steemitimages.com/DQmYy5CK9vo72k7gKg588Mp5nQQnqT4VW9BxjqqhGWNdk7Q/BRU%20(1).png)
+
+
+|N|acc|title|comm|length|uniq|
+------------|-------------|------------|-------------|----|-----|
+|1|cryptogecko|<a href="/hive-111293/@cryptogecko/the-three-things-i-like-most-about-my-country-by-cryptogecko">The three things I like most about my country   by  cryptogecko</a>|6|5465|100|
+
+|2|jyoti-thelight|<a href="/hive-111293/@jyoti-thelight/our-family-travel-story-and-pictures-trip-to-mysore">Our Family Travel Story   Pictures   Trip to Mysore</a>|11|5094|100|
+
+|3|hadi87|<a href="/hive-111293/@hadi87/support-club50-50-i-went-to-visit-the-beautiful-place-ecopark-or-or-10-beneficiaries-to-hive-111293-or-or-hadi87">support  club50 50  I Went to visit the beautiful place Ecopark    10  beneficiaries to  hive 111293     hadi87</a>|2|4889|100|
+
+|4|mujibrahman|<a href="/hive-111293/@mujibrahman/3pfat1-steem-travelers-club5050-club75-or-or-pesona-bumi-aceh-air-terjun-7-bidadari">Steem Travelers  club5050  club75   Pesona Bumi Aceh  Air Terjun 7 Bidadari</a>|3|4496|90.6|
+
+|5|farady08|<a href="/hive-111293/@farady08/club5050-steem-travelers-or-or-one-of-the-hidden-tourist-attractions-in-aceh-besar"> Club5050 Steem Travelers    One of the hidden tourist attractions in aceh besar</a>|1|3898|100|
+
+|6|siam7|<a href="/hive-111293/@siam7/traveling-and-eating-with-friends-on-the-land">Traveling and eating with friends on the land</a>|1|3575|100|
+
+|7|josepha|<a href="/hive-111293/@josepha/club5050-a-trip-visit-to-a-cultural-dance-center-at-nguroje"> club5050 A Trip Visit To A Cultural Dance Center At Nguroje</a>|1|2887|100|
+
+|8|nancygbemi|<a href="/hive-111293/@nancygbemi/club5050-contest-the-traditional-food-in-my-country-banga-soup-palm-nut-soup-nancygbemi"> club5050 Contest  The traditional food in my country Banga soup palm nut soup   nancygbemi</a>|5|2464|100|
+
+|9|nabilq|<a href="/hive-111293/@nabilq/today-i-have-presented-to-you-some-things-about-zamindarbari">Today I have presented to you some things about zamindarbari </a>|1|1626|100|
+
+
+Подробности о проверках тут:
+Details about checks are here:
+
+https://steemit.com/hive-171319/@alexmove/development-of-automation-for-checking-uniqueness-in-steemit-part-5-mysql-connection
+
+Have a nice day!
+
+
+

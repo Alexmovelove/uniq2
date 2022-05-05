@@ -1,0 +1,53 @@
+![BRU (1).png](https://cdn.steemitimages.com/DQmYy5CK9vo72k7gKg588Mp5nQQnqT4VW9BxjqqhGWNdk7Q/BRU%20(1).png)
+
+
+|N|acc|title|comm|length|uniq|
+------------|-------------|------------|-------------|----|-----|
+|1|papi.mati|<a href="/hive-111293/@papi.mati/my-favorite-places-and-activities-in-buenos-aires-part-ii">My favorite places and activities in Buenos Aires part II</a>|6|7869|100|
+
+|2|travel777|<a href="/hive-111293/@travel777/bull-stream-park-boga-cayi-parki">Bull Stream Park  Bo a  ay  Park </a>|1|7340|100|
+
+|3|criptoemprende|<a href="/hive-111293/@criptoemprende/mision-imposible-3-xitang-water-town-china-diary-game-travel">Mision Imposible 3  Xitang Water town  China  Diary Game  TRAVEL</a>|1|6043|100|
+
+|4|shohana1|<a href="/hive-111293/@shohana1/dhaka-moments-part-1-by-shohana1-or-or-capital-city-of-bangladesh">Dhaka Moments Part   1 By  Shohana1    Capital City Of Bangladesh</a>|8|5585|100|
+
+|5|manuelhooks|<a href="/hive-111293/@manuelhooks/the-skill-that-can-help-take-you-home">Navigating without a compass during the day</a>|4|5138|100|
+
+|6|ylene74|<a href="/hive-111293/@ylene74/travel-contest-18th-edition-30-steem-or-concurso-de-viajes-18a-edicion-30-steem-or-or-por-ylene74-or-or-club75-or-or">Travel contest 18th edition  30 STEEM    Concurso de viajes 18a edici n  30 STEEM     por  ylene74     club75   </a>|1|4863|100|
+
+|7|mdabunaim1551|<a href="/hive-111293/@mdabunaim1551/club100-or-or-today-s-travel-story-is-jahanara-kamruzzaman-degree-college-dupchanchia-bogura-or-or-10-para-steem-travelers-hive"> club100    Today s travel story is Jahanara Kamruzzaman Degree College Dupchanchia bogura   10  para Steem Travelers  hive 111293</a>|1|4529|100|
+
+|8|sohag27|<a href="/hive-111293/@sohag27/clu5050-or-or-visiting-a-paddy-field-or-or-sohag27-or-or-10-beneficiaries-to-hive-111293-account">Clu5050    Visiting a paddy field     sohag27    10  beneficiaries to  hive 111293 account</a>|4|4419|100|
+
+|9|josepha|<a href="/hive-111293/@josepha/club5050-my-trip-to-nanso-village"> club5050   My Trip To Nanso Village</a>|1|4379|100|
+
+|10|hadi87|<a href="/hive-111293/@hadi87/club5050-betterlife-i-completed-the-second-dose-of-the-covit-19-vaccine-or-or-pay-10-beneficiaries-hive-111293-or-or-hadi87">Club5050  Betterlife  I completed the second dose of the Covit 19 vaccine   pay 10  beneficiaries  hive 111293    hadi87</a>|5|4320|100|
+
+|11|subconsciousness|<a href="/hive-111293/@subconsciousness/club100-or-or-18th-photo-contest-steem-travelers-or-or-subconsciousness-or-or-full-of-adrenaline">   club100     18th Photo Contest  Steem Travelers     subconsciousness       Full of Adrenaline   </a>|2|4138|100|
+
+|12|udyliciouz|<a href="/hive-111293/@udyliciouz/tips-to-making-your-trip-hitch-free-by-udyliciouz">Tips to making your trip hitch free by  udyliciouz</a>|1|3666|100|
+
+|13|siam7|<a href="/hive-111293/@siam7/gathering-with-friends-on-a-winter-morning-and-traveling-along-the-river">Gathering with friends on a winter morning and traveling along the river</a>|2|2996|100|
+
+|14|jacorv|<a href="/hive-111293/@jacorv/adrenalina-aerea">Adrenalina Aerea</a>|2|2896|100|
+
+|15|deepak94|<a href="/hive-111293/@deepak94/journey-of-gwalior-madhya-pradesh-or-or-exam-time-or-or-favourite-place">Journey of Gwalior Madhya Pradesh   Exam time    Favourite place</a>|2|2878|100|
+
+|16|migueaml|<a href="/hive-111293/@migueaml/concurso-de-fotografia-adrenalina-saltando-hacia-el-mar">Concurso de Fotograf a  Adrenalina   Saltando hacia el mar</a>|2|2183|100|
+
+|17|ab-rafi|<a href="/hive-111293/@ab-rafi/went-to-the-market">Went to the market</a>|2|2125|100|
+
+|18|maya03|<a href="/hive-111293/@maya03/concurso-de-fotografia-adrenalina-paseo-a-caballo-en-la-finca-de-mis-abuelos-por-maya03-club5050">Concurso de fotograf a  adrenalina   Paseo a caballo en la finca de mis abuelos por  maya03  club5050</a>|2|1602|100|
+
+|19|rijalpetualang|<a href="/hive-111293/@rijalpetualang/the-beauty-of-swimming-with-fish-on-the-island-of-weh">The beauty of swimming with fish on the island of Weh</a>|1|911|59.3|
+
+
+Подробности о проверках тут:
+Details about checks are here:
+
+https://steemit.com/hive-171319/@alexmove/development-of-automation-for-checking-uniqueness-in-steemit-part-5-mysql-connection
+
+Have a nice day!
+
+
+

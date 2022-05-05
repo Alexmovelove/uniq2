@@ -1,0 +1,41 @@
+![BRU (1).png](https://cdn.steemitimages.com/DQmYy5CK9vo72k7gKg588Mp5nQQnqT4VW9BxjqqhGWNdk7Q/BRU%20(1).png)
+
+
+|N|acc|title|comm|length|uniq|
+------------|-------------|------------|-------------|----|-----|
+|1|alamgir833|<a href="/hive-111293/@alamgir833/steem-travelers-or-or-i-noticed-that-the-traveling-florist-was-selling-marigolds-or-club5050-or">Steem Travelers    I noticed that the traveling florist was selling marigolds  Club5050          </a>|3|6738|100|
+
+|2|yonaikerurso|<a href="/hive-111293/@yonaikerurso/concurso-comida-tradicional-de-tu-pais-or-hallacas-navidenas-por-yonaikerurso-club5050">Concurso Comida Tradicional de tu pa s   Hallacas Navide as por yonaikerurso  club5050</a>|9|5709|100|
+
+|3|whyshy|<a href="/hive-111293/@whyshy/club100-traditional-food-from-your-country-or-or-stuffed-meatballs">Club100   Traditional food from your country    STUFFED MEATBALLS</a>|17|5451|100|
+
+|4|sahmie|<a href="/hive-111293/@sahmie/traditional-food-in-my-country">TRADITIONAL FOOD IN MY COUNTRY</a>|3|5097|100|
+
+|5|myblueworld|<a href="/hive-111293/@myblueworld/club100-traditional-food-from-your-country-ashure"> club100   Traditional food from your country   ASHURE</a>|10|3958|100|
+
+|6|abdrahman08|<a href="/hive-111293/@abdrahman08/club100-or-or-journey-to-the-top-of-the-mountain-ship"> club100    journey to the top of the mountain ship</a>|1|3856|100|
+
+|7|migueaml|<a href="/hive-111293/@migueaml/catedral-de-la-asuncion-y-sus-alrededores">Catedral de la Asunci n y sus Alrededores</a>|2|3568|100|
+
+|8|tanjim01|<a href="/hive-111293/@tanjim01/club75-or-visiting-a-friends-home-and-garden-pabna-bangladesh-or-10-beneficiaries-to-hive-111293"> club75  visiting a friends home and garden  pabna  Bangladesh  10  beneficiaries to  hive 111293</a>|2|3525|100|
+
+|9|siam7|<a href="/hive-111293/@siam7/kashimala-is-a-historical-fair">Kashimala is a historical fair</a>|2|2456|100|
+
+|10|suwiwi|<a href="/hive-111293/@suwiwi/club75-or-or-visit-to-prambanan-temple"> Club75     Visit to Prambanan Temple </a>|3|2336|100|
+
+|11|voloshyn|<a href="/hive-111293/@voloshyn/rating-5-0-or-blablacar-stories-12">Rating 5 0   Blablacar stories   12</a>|1|2314|1|
+
+|12|mustaphaissah|<a href="/hive-111293/@mustaphaissah/my-favorite-tree-in-ghana-tamale-to-be-precise">My Favorite Tree In Ghana  Tamale To Be Precise </a>|2|2267|100|
+
+|13|ab-rafi|<a href="/hive-111293/@ab-rafi/went-for-a-walk-on-the-land">Went for a walk on the land</a>|1|1398|100|
+
+
+Подробности о проверках тут:
+Details about checks are here:
+
+https://steemit.com/hive-171319/@alexmove/development-of-automation-for-checking-uniqueness-in-steemit-part-5-mysql-connection
+
+Have a nice day!
+
+
+

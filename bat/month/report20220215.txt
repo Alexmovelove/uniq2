@@ -1,0 +1,51 @@
+![BRU (1).png](https://cdn.steemitimages.com/DQmYy5CK9vo72k7gKg588Mp5nQQnqT4VW9BxjqqhGWNdk7Q/BRU%20(1).png)
+
+
+|N|acc|title|comm|length|uniq|
+------------|-------------|------------|-------------|----|-----|
+|1|nusratjahan77|<a href="/hive-111293/@nusratjahan77/eng-ban-some-of-the-architecture-and-designs-collected-while-traveling"> Eng Ban  Some of the architecture and designs collected while traveling</a>|2|11779|100|
+
+|2|papi.mati|<a href="/hive-111293/@papi.mati/iguazu-falls-brazil-argentina">Iguazu Falls   Brazil Argentina</a>|12|9643|94|
+
+|3|ripon0630|<a href="/hive-111293/@ripon0630/club100-or-or-betterlife-travel-blog-or-or-traveling-to-my-college-to-check-my-registration-or-or-blog-by-ripon0630-by-ripon0630"> CLUB100    Betterlife   Travel Blog    Traveling To My College To Check The Registration    Blog By  ripon0630</a>|2|9132|100|
+
+|4|mdabunaim1551|<a href="/hive-111293/@mdabunaim1551/club100-or-or-today-s-travel-story-is-a-trip-to-a-place-called-desi-kori-or-or-10-para-steem-travelers-hive-111293"> club100    Today s travel story is a trip to a place called Desi Kori   10  para Steem Travelers  hive 111293</a>|1|7908|100|
+
+|5|muhajir169|<a href="/hive-111293/@muhajir169/club-75-or-or-steam-travelers-enjoying-the-beautiful-assembly-point-beach-indonesia">Club 75    Steam Travelers   Enjoying the beautiful Assembly Point Beach  Indonesia </a>|2|6490|94|
+
+|6|josepha|<a href="/hive-111293/@josepha/club5050-my-trip-to-jalingo-taraba-state-capital-from-mayo-sum-sum"> club5050   My Trip To Jalingo Taraba State Capital From Mayo Sum sum</a>|1|6162|100|
+
+|7|safi01|<a href="/hive-111293/@safi01/club5050-or-or-travel-to-sikam-twaisa-waterfall-bangladesh-or-or-by-safi01-or-or-10-beneficiaries-goes-to-hive-111293"> club5050    Travel to sikam twaisa waterfall  bangladesh    by  safi01   10  beneficiaries goes to  hive 111293</a>|4|5751|100|
+
+|8|fahmiam|<a href="/hive-111293/@fahmiam/club100-or-or-travel-with-friends-vacation-with-family-to-banda-aceh-and-the-beach-banda-aceh-indonesia-by-fahmiam-or-or-10"> club100    Travel with friends  vacation with family to Banda Aceh and the beach    Banda Aceh  Indonesia by  fahmiam    10  payout to  hive 111293</a>|2|5440|100|
+
+|9|nainaztengra|<a href="/hive-111293/@nainaztengra/travel-diaries-mega-structures-2-the-giant-pyramids-of-giza-and-the-temple-of-ramses">Travel Diaries   Mega Structures   2   The Giant Pyramids of Giza and the Temple of Ramses</a>|3|4340|94.5|
+
+|10|leicorp1|<a href="/hive-111293/@leicorp1/travel-contest-19th-edition-traveling-for-love-by-leicorp1-10-to-hive-111293">Travel contest 19th edition    Traveling for Love     By  leicorp1     10  to  hive 111293</a>|20|4133|100|
+
+|11|whyshy|<a href="/hive-111293/@whyshy/club100-i-m-taking-your-picture-or-or-maiden-s-tower">Club100    I m taking your picture      Maiden s Tower</a>|5|3638|93|
+
+|12|rabbani71|<a href="/hive-111293/@rabbani71/traveling-last-winter-photography-15-02-2022-or-or-10-beneficiaries-goes-to-hive-111293-club5050">    Traveling last winter photography     15 02 2022     10  beneficiaries goes to  hive 111293 club5050</a>|1|3347|100|
+
+|13|ariful2|<a href="/hive-111293/@ariful2/travel-with-a-friend-at-the-train-station-10-hive111293-club75">Travel with a friend at the train station 10   hive111293   club75</a>|1|3118|100|
+
+|14|palang|<a href="/hive-111293/@palang/club5050-steemtravelers-or-learn-with-steem-active-steemit-and-active-traveling"> Club5050 SteemTravelers   Learn With Steem  Active Steemit   Active Traveling</a>|2|2989|100|
+
+|15|willeusz|<a href="/hive-111293/@willeusz/club75-visitando-la-triple-frontera-brasil-argentina-y-paraguay">Club75   Visitando la Triple Frontera  Brasil       Argentina      y Paraguay     </a>|4|2684|100|
+
+|16|alena-vladi|<a href="/hive-111293/@alena-vladi/photo-contest-perfect-day-in-paradise-club75">Photo contest  Perfect Day in Paradise    CLUB75</a>|3|2639|100|
+
+|17|mohdzubirdesray|<a href="/hive-111293/@mohdzubirdesray/towards-a-traveling-place-very-far-from-the-city-the-travel-distance-could-take-about-4-hours-on-feeling-this-place-many">TOWARDS A TRAVELING PLACE VERY FAR FROM THE CITY  THE TRAVEL DISTANCE COULD TAKE ABOUT 4 HOURS ON FEELING  THIS PLACE MANY TOURISTS WANT TO KNOW THE LOCATION </a>|1|1399|100|
+
+|18|rijalpetualang|<a href="/hive-111293/@rijalpetualang/the-warm-sensation-of-the-morning-sun-in-the-upper-sea">The warm sensation of the morning sun in the upper sea </a>|1|1204|100|
+
+
+Подробности о проверках тут:
+Details about checks are here:
+
+https://steemit.com/hive-171319/@alexmove/development-of-automation-for-checking-uniqueness-in-steemit-part-5-mysql-connection
+
+Have a nice day!
+
+
+

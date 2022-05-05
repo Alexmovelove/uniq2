@@ -1,0 +1,35 @@
+![BRU (1).png](https://cdn.steemitimages.com/DQmYy5CK9vo72k7gKg588Mp5nQQnqT4VW9BxjqqhGWNdk7Q/BRU%20(1).png)
+
+
+|N|acc|title|comm|length|uniq|
+------------|-------------|------------|-------------|----|-----|
+|1|ponpase|<a href="/hive-111293/@ponpase/update-steem-camp-event-location-or-steem-camp-supported-by-5-communities">UPDATE   STEEM CAMP Event Location   STEEM CAMP Supported by 5 Communities</a>|4|5924|90.4|
+
+|2|farady08|<a href="/hive-111293/@farady08/club75-steem-travelers-or-or-one-of-the-memories-in-2020-vacation-to-langsa-city"> club75 Steem Travelers    One of the memories in 2020 vacation to langsa city</a>|1|4737|100|
+
+|3|arifulsa12|<a href="/hive-111293/@arifulsa12/ghost-hunter-investigation-club5050-10-beneficiaries-to-hive-111293">Ghost Hunter investigation      club5050    10   beneficiaries to  hive 111293</a>|2|4457|100|
+
+|4|tanjim01|<a href="/hive-111293/@tanjim01/club75-or-travelling-to-a-agricultural-research-institute-pabna-bangladesh-or-10-beneficiaries-to-hive-111293"> club75  Travelling to a agricultural research Institute pabna  Bangladesh  10  beneficiaries to  hive 111293</a>|1|3660|100|
+
+|5|myblueworld|<a href="/hive-111293/@myblueworld/club5050-800-year-old-larch-26ocak2022"> club5050  800 year old Larch 26Ocak2022</a>|9|3168|100|
+
+|6|siam7|<a href="/hive-111293/@siam7/landscape-of-the-next-village">Landscape of the next village</a>|1|3094|100|
+
+|7|ariful2|<a href="/hive-111293/@ariful2/i-went-to-visit-the-fair-in-madnai-village-hive111293-club5050-tarvel">I went to visit the fair in Madnai village  hive111293   club5050 tarvel</a>|1|2472|100|
+
+|8|nabilq|<a href="/hive-111293/@nabilq/i-have-presented-to-you-the-story-of-comilla-city-travel">I have presented to you the story of Comilla city travel </a>|1|1337|100|
+
+|9|yousafzai1122|<a href="/hive-111293/@yousafzai1122/gilgit-baltistan-astonishing-place-to-visit">GILGIT Baltistan   Astonishing place to visit</a>|1|1334|100|
+
+|10|jobreyes24|<a href="/hive-111293/@jobreyes24/the-evanescent-beauty-of-sakura">Photo Contest   The Evanescent Beauty Of Sakura</a>|6|1054|86.6|
+
+
+Подробности о проверках тут:
+Details about checks are here:
+
+https://steemit.com/hive-171319/@alexmove/development-of-automation-for-checking-uniqueness-in-steemit-part-5-mysql-connection
+
+Have a nice day!
+
+
+

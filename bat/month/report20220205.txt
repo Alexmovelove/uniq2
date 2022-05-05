@@ -1,0 +1,25 @@
+![BRU (1).png](https://cdn.steemitimages.com/DQmYy5CK9vo72k7gKg588Mp5nQQnqT4VW9BxjqqhGWNdk7Q/BRU%20(1).png)
+
+
+|N|acc|title|comm|length|uniq|
+------------|-------------|------------|-------------|----|-----|
+|1|abdrahman08|<a href="/hive-111293/@abdrahman08/club100-or-or-aceh-is-the-richest-region-in-tourism-but-not-with-poverty"> club100    Aceh is the Richest Region in Tourism But Not With Poverty </a>|1|3889|100|
+
+|2|alena-vladi|<a href="/hive-111293/@alena-vladi/travel-contest-travel-with-friends-a-birthday-in-emirates-club75">Travel contest    Travel with friends    A Birthday in Emirates   CLUB75</a>|4|3308|100|
+
+|3|siam7|<a href="/hive-111293/@siam7/in-our-birkedar-union-we-help-a-lot-of-poor-and-miserable-people">In our Birkedar Union we help a lot of poor and miserable people</a>|1|3035|92.5|
+
+|4|suwiwi|<a href="/hive-111293/@suwiwi/club75-or-or-visiting-tana-toraja"> Club75     Visiting Tana Toraja </a>|0|2908|100|
+
+|5|noraandy|<a href="/hive-111293/@noraandy/travel-contest-or-or-travel-with-friends-or-or-a-trip-to-the-beach-with-friends-or-or-by-noraandy">Travel Contest   Travel With Friends   A Trip To The Beach With Friends   by  noraandy</a>|5|1977|100|
+
+
+Подробности о проверках тут:
+Details about checks are here:
+
+https://steemit.com/hive-171319/@alexmove/development-of-automation-for-checking-uniqueness-in-steemit-part-5-mysql-connection
+
+Have a nice day!
+
+
+

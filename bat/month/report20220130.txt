@@ -1,0 +1,29 @@
+![BRU (1).png](https://cdn.steemitimages.com/DQmYy5CK9vo72k7gKg588Mp5nQQnqT4VW9BxjqqhGWNdk7Q/BRU%20(1).png)
+
+
+|N|acc|title|comm|length|uniq|
+------------|-------------|------------|-------------|----|-----|
+|1|asiahaiss|<a href="/hive-111293/@asiahaiss/the-natural-beauty-of-the-peak-of-mount-geurutee-aceh-jaya-with-the-beautiful-ocean-and-cluster-of-islands">The Natural Beauty Of The Peak Of Mount Geurutee Aceh Jaya With The Beautiful Ocean   Cluster Of Islands           </a>|12|10212|100|
+
+|2|palang|<a href="/hive-111293/@palang/club5050-steemtravelers-or-sightseeing-vacation-burni-telong-mountain-adventure-with-friends"> Club5050 SteemTravelers   Sightseeing Vacation  Burni Telong Mountain Adventure with Friends</a>|5|5637|100|
+
+|3|udyliciouz|<a href="/hive-111293/@udyliciouz/dressing-as-a-part-of-the-ibibio-culture">Dressing as a part of the Ibibio Culture </a>|4|4551|100|
+
+|4|yonaikerurso|<a href="/hive-111293/@yonaikerurso/concurso-de-fotografia-mi-arbol-regional-favorito-el-saman-de-gueere-por-yonaikerurso-club5050">Concurso de fotograf a  Mi  rbol regional favorito   El Saman de G ere por  yonaikerurso  club5050</a>|5|3153|100|
+
+|5|siam7|<a href="/hive-111293/@siam7/travel-to-the-market">Travel to the market</a>|3|2983|100|
+
+|6|apnigrich|<a href="/hive-111293/@apnigrich/my-favorite-tree">My favorite tree</a>|14|2489|100|
+
+|7|nabilq|<a href="/hive-111293/@nabilq/i-went-to-the-market-today-to-buy-fruit">I went to the market today to buy fruit</a>|1|2378|100|
+
+
+Подробности о проверках тут:
+Details about checks are here:
+
+https://steemit.com/hive-171319/@alexmove/development-of-automation-for-checking-uniqueness-in-steemit-part-5-mysql-connection
+
+Have a nice day!
+
+
+
