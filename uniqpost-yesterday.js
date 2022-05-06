@@ -1,3 +1,4 @@
+//1
 const mysql = require("mysql2");
 const steem = require('steem');
 const fs = require("fs");    
@@ -141,7 +142,14 @@ const connection = mysql.createConnection(config);
 						{
 							 answer2 = url+`<BR>`+tests+`% <br> The uniqueness of the text is checked - everything is OK! Thanks! High level of uniqueness: `+tests+`%`;
 							 
-							 	console.log(answer2);
+							 	console.log(votey);
+							 	console.log(votey);
+							 	console.log(votey);
+							 	console.log(votey);
+							 	console.log(votey);
+							 	console.log(votey);
+							 	console.log(votey);
+							 	console.log(votey);
 	
 		steem.broadcast.comment(
 						wifkey, // Your posting wif
@@ -162,7 +170,7 @@ const connection = mysql.createConnection(config);
 						{
 							if (users[post_number].length<500)
 							{
-								answer2 = url+`<BR><br>`+tests+`% <br><br>` +  users[post_number].length +`<br><br>Possible plagiarism detected from <br>`+data.matches[0].url+`<br><br>@ac-cheetah @endingplagiarism <br><br>`+moderators_list;
+								answer2 = url+`<BR><br>`+tests+`% <br><br>` +  users[post_number].length +`<br><br>Need manual verification <br>`+data.matches[0].url+`<br><br>@ac-cheetah @endingplagiarism <br><br>`+moderators_list;
 								
 									console.log(answer2);
 
@@ -182,7 +190,7 @@ const connection = mysql.createConnection(config);
 							}
 							else
 							{
-								answer2 = answer2 = url+`<BR>`+tests+`% <br> Possible plagiarism detected from<br>`+data.matches[0].url+`<br>`+`<br>@ac-cheetah @endingplagiarism <br><br>`+moderators_list;
+								answer2 = answer2 = url+`<BR>`+tests+`% <br> Need manual verification<br>`+data.matches[0].url+`<br>`+`<br>@ac-cheetah @endingplagiarism <br><br>`+moderators_list;
 	
 	console.log(answer2);
 	
@@ -270,3 +278,4 @@ const connection = mysql.createConnection(config);
    });
    
 					
+
